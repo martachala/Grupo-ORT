@@ -88,3 +88,5 @@ console.log(proceso);
 console.log(proceso.reclamos);
 console.log(proceso.polizasConReclamo());
 proceso.pasarEstadoResolucionAterminado();
+
+//comentario de prueba
